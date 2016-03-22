@@ -1,0 +1,28 @@
+name: Culture Cible
+favicon: null
+layout_spectrum: 0.08622443303465843
+typography_spectrum: 0.6604735336732119
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.14322599908336997
+  lightness: 0.4201664060819894
+  saturation: 0.6326638536993414
+  rhythmicContrast: 0.9738113421481103
+purpose: []
