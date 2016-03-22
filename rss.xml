@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Culture Cible]]></title>
         <description><![CDATA[Culture Cible]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/culture-cible/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Mar 2016 20:10:20 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 22 Mar 2016 20:15:26 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/culture-cible/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Premier post.. test, whatever... </p>]]></description>
-            <link>undefinedpremier-post-test-whatever/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1b5ba0c8-26be-4a24-9c79-48ecf2a9cbba.jpg">]]></description>
+            <link>https://thegrid.ai/culture-cible/premier-post-test-whatever/index.html</link>
             <guid isPermaLink="false">dd2acf2e-9adb-41b9-91bf-fe51cc84423b</guid>
-            <pubDate>Tue, 22 Mar 2016 20:09:58 GMT</pubDate>
+            <pubDate>Tue, 22 Mar 2016 20:14:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
